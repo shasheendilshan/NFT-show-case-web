@@ -1,4 +1,4 @@
-import { Features, Button, Download, SectionWrapper } from "./components";
+import { Features, Download, SectionWrapper } from "./components";
 import assets from "./assets";
 import styles from "./styles/Global";
 const App = () => {
